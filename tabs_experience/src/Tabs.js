@@ -28,7 +28,7 @@ function Tabs() {
   return (
     <section className='section'>
       <div className='title'>
-        <h2>experience</h2>
+        <h2>Experience</h2>
         <div className='underline'></div>
       </div>
       <div className='jobs-center'>
@@ -60,7 +60,7 @@ function Tabs() {
         </article>
       </div>
       <button type='button' className='btn'>
-        more info
+        More info
       </button>
     </section>
   )
