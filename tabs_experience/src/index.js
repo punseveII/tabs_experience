@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './tabs.css';
 import Tabs from './Tabs';
 import reportWebVitals from './reportWebVitals';
 
